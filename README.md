@@ -1,6 +1,6 @@
 # Customizable GAN model
 
-A GAN that can be customized to fit any preferred dataset; Reccomended to use images under 100x100 resolution.
+A GAN that can be customized to fit any preferred dataset.
 
 This project was originally created to suit the fashion_mnist dataset(https://www.tensorflow.org/datasets/catalog/fashion_mnist).
 
